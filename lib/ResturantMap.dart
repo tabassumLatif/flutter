@@ -66,7 +66,6 @@ class _RestaurantsMapState extends State<RestaurantsMap> {
             builder: (context) => new Container(
                   child: IconButton(
                     icon: new Icon(Icons.location_on, color: Colors.red,),
-                    onPressed: ,
                   ),
                 ));
       }
